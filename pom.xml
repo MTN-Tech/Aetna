@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>apple app</finalName>
+		<finalName>tesla app</finalName>
 		
 		<plugins>
 			<plugin>
